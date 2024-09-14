@@ -1,3 +1,4 @@
+//Crie uma aplicação React que componha um componente Galeria a partir de múltiplos componentes Imagem, cada um renderizando uma imagem diferente.
 // src/exercises/Exercise01.js
 import React from "react";
 

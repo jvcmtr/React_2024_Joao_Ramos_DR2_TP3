@@ -1,3 +1,4 @@
+//Adicione uma funcionalidade para que os produtos esgotados não sejam exibidos na lista ao marcar uma checkbox "Mostrar apenas produtos disponíveis".
 // src/exercises/Exercise14.js
 import React from "react";
 

@@ -1,0 +1,62 @@
+1 Adicionar estilos a componentes
+
+Exercício 1: 
+
+Crie uma aplicação React onde você adicione estilos personalizados a um componente usando CSS externo. Crie um componente Card que possua classes para estilo e exiba uma informação básica, como nome e descrição.
+Exercício 2: 
+
+Crie uma aplicação React onde você adicione estilos inline a um componente usando o objeto style. Estilize um botão que mude sua cor ao ser clicado.
+2 Usar JSX para criar aplicações em React
+
+Exercício 3: 
+
+Crie uma aplicação React utilizando JSX para renderizar um layout de página com um cabeçalho, uma área de conteúdo e um rodapé.
+Exercício 4: 
+
+Crie uma aplicação React onde você utilize JSX para incluir um fragmento de código HTML que exiba uma lista de itens dinâmicos.
+3 Renderizar os dados de um objeto em um componente React
+
+Exercício 5: 
+
+Crie uma aplicação React onde você receba um objeto produto com propriedades nome, preço e descrição, e renderize essas informações dentro de um componente Produto.
+Exercício 6: 
+
+Crie uma aplicação React onde você receba um objeto usuario com propriedades nome, email e endereço, e renderize essas informações dentro de um componente Perfil.
+4 Renderizar as propriedades de um componente React
+
+Exercício 7: 
+
+Crie um componente React que receba propriedades (props) titulo, subtitulo, e conteudo e renderize um cartão informativo com essas informações.
+Exercício 8: 
+
+Crie um componente React que receba propriedades (props) imagem, descricao, e link e renderize uma imagem clicável que direcione para o link fornecido.
+5 Compor um componente a partir da combinação de outros componentes
+
+Exercício 9: 
+
+Crie uma aplicação React que componha um componente Galeria a partir de múltiplos componentes Imagem, cada um renderizando uma imagem diferente.
+Exercício 10: 
+
+Crie uma aplicação React que componha um componente ListaDeTarefas a partir de múltiplos componentes Tarefa, onde cada tarefa exiba um nome e um status.
+6 Propagar dados através de componentes usando propriedades
+
+Exercício 11: 
+
+Crie uma aplicação React onde um componente Formulario passe os dados de um formulário preenchido para um componente Resumo, exibindo os valores submetidos.
+Exercício 12: 
+
+Crie uma aplicação React que receba um array de objetos produtos, onde cada objeto possui as propriedades nome, preco e disponivel (um booleano indicando se o produto está disponível ou não). Utilize um componente Produto para renderizar a lista de produtos.
+7 Outros Exercícios
+
+Exercício 13: 
+
+Renderize todos os produtos no componente Produto, mas estilize os produtos que não estão disponíveis (disponivel: false) com uma regra de estilos diferente, como por exemplo, uma cor de texto cinza e tachado, indicando que estão esgotados.
+Exercício 14: 
+
+Adicione uma funcionalidade para que os produtos esgotados não sejam exibidos na lista ao marcar uma checkbox "Mostrar apenas produtos disponíveis".
+Exercício 15: 
+
+Crie uma aplicação React que utilize JSX para incluir um componente Tabela que renderize uma tabela HTML com dados dinâmicos fornecidos por um array de objetos.
+Exercício 16: 
+
+Crie uma aplicação React que combine componentes Cabeçalho, Conteudo, Menu e Rodape em uma única página.

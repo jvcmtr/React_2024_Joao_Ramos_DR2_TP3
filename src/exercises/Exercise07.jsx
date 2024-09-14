@@ -1,3 +1,4 @@
+//Crie um componente React que receba propriedades (props) titulo, subtitulo, e conteudo e renderize um cartão informativo com essas informações.
 // src/exercises/Exercise01.js
 import React from "react";
 
