@@ -18,7 +18,7 @@ a {
 /* Estilo para app-container*/
 .app-container {
   display: flex;
-  height: 100vh;
+  /*height: 100vh;  esta causando transbordamento*/ 
 }
 
 main {
@@ -42,7 +42,7 @@ main {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  max-width: 800px;
+  /*max-width: 800px; */
 }
 
 .card {
