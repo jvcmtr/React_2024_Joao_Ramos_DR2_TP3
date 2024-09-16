@@ -3,34 +3,7 @@
 import React from "react";
 import { Card } from "./Exercise01";
 import { displayPartsToString } from "typescript";
-
-const usuarios = [ //lista criada com auxilio de inteligencia artificial
-  {
-      "name": "Ana Silva",
-      "email": "ana.silva@example.com",
-      "address": "Rua das Flores, 123, Apto 45, São Paulo, SP, 01234-567"
-  },
-  {
-      "name": "Carlos Oliveira",
-      "email": "carlos.oliveira@example.com",
-      "address": "Avenida Paulista, 456, Sala 789, São Paulo, SP, 01310-000"
-  },
-  {
-      "name": "Maria Santos",
-      "email": "maria.santos@example.com",
-      "address": "Praça da Sé, 789, 6º Andar, São Paulo, SP, 01001-000"
-  },
-  {
-      "name": "João Pereira",
-      "email": "joao.pereira@example.com",
-      "address": "Rua dos Pinheiros, 321, Casa 2, Rio de Janeiro, RJ, 22222-333"
-  },
-  {
-      "name": "Luciana Costa",
-      "email": "luciana.costa@example.com",
-      "address": "Rua das Palmeiras, 987, Apto 10, Belo Horizonte, MG, 30123-456"
-  }
-]
+import { usuarios } from "../data";
 
 
 const Exercise06 = () => {
