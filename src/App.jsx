@@ -41,12 +41,12 @@ const App = () => {
               <Route path="/exercise8" element={<Exercise08 />} />
               <Route path="/exercise9" element={<Exercise09 />} />
               <Route path="/exercise10" element={<Exercise10 />} />
-              <Route path="/exercise11" element={<Exercise10 />} />
-              <Route path="/exercise12" element={<Exercise10 />} />
-              <Route path="/exercise13" element={<Exercise10 />} />
-              <Route path="/exercise14" element={<Exercise10 />} />
-              <Route path="/exercise15" element={<Exercise10 />} />
-              <Route path="/exercise16" element={<Exercise10 />} />
+              <Route path="/exercise11" element={<Exercise11 />} />
+              <Route path="/exercise12" element={<Exercise12 />} />
+              <Route path="/exercise13" element={<Exercise13 />} />
+              <Route path="/exercise14" element={<Exercise14 />} />
+              <Route path="/exercise15" element={<Exercise15 />} />
+              <Route path="/exercise16" element={<Exercise16 />} />
             </Routes>
           </section>
         </main>

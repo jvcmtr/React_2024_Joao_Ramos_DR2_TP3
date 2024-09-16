@@ -59,10 +59,6 @@ const Perfil = (props) => {
 }
 
 const pStyle={
-  width: '80vw',
-  padding: '15px',
-  margin: '10px',
-  boxShadow: '0 5px 9px 0 #00000040, 0 5px 20px 0 #00000020',
   display: 'grid',
   gridTemplateColumns: '1fr 1fr 3fr',
   columnGap: '20px'
